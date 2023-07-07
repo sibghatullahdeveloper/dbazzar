@@ -1,0 +1,10 @@
+<svg id="shopping_basket-24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="148" viewBox="0 0 148 148">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.964" y1="0.415" x2="0.058" y2="0.859" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#be0a5e"/>
+      <stop offset="1" stop-color="#ff8134"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_205" data-name="Path 205" d="M0,0H148V148H0Z" fill="none"/>
+  <path id="Path_206" data-name="Path 206" d="M130.5,45.063H100.962L73.952,4.61a6.121,6.121,0,0,0-5.118-2.59,6.027,6.027,0,0,0-5.118,2.652L36.7,45.063H7.167A6.185,6.185,0,0,0,1,51.23,5.194,5.194,0,0,0,1.247,52.9L16.91,110.06a12.264,12.264,0,0,0,11.84,9h80.167a12.393,12.393,0,0,0,11.9-9L136.482,52.9l.185-1.665A6.185,6.185,0,0,0,130.5,45.063Zm-61.667-25.9L86.1,45.063H51.567Zm40.083,87.567-80.1.062L15.245,57.4H122.483Zm-40.083-37A12.333,12.333,0,1,0,81.167,82.063,12.37,12.37,0,0,0,68.833,69.73Z" transform="translate(5.167 10.437)" fill="url(#linear-gradient)"/>
+</svg>
